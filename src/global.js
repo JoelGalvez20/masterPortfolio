@@ -9,7 +9,10 @@ export const GlobalStyles = createGlobalStyle`
 
   body {
     align-items: center;
-    background: ${({ theme }) => theme.body};
+    background-image: url("https://wallpapercave.com/wp/wp4923979.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
     color: ${({ theme }) => theme.text};
     display: flex;
     // flex-direction: column;

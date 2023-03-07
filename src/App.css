@@ -1,4 +1,8 @@
 .App {
+  background-image: url("https://wallpapercave.com/wp/wp4923979.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
   text-align: center;
 }
 
